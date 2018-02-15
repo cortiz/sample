@@ -27,7 +27,7 @@
             <folder name="Templates" path="/templates" read-direct-children="false" attach-root-prefix="false"/>
         </folders>
 
-        <!-- Item Patterns -->
+       
         <patterns>
             <!-- The section below helps determine the type of content based on regex. This shows up in two places:
             - The activity audit log.
